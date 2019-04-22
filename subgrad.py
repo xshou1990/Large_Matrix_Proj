@@ -1,6 +1,5 @@
 import numpy as np
 from timeit import default_timer as timer
-
 # SGD for least square problem
 def SGD(Z, y,Tmax,eta,batchsize):
     start = timer()

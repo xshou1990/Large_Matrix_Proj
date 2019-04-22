@@ -1,6 +1,5 @@
 import numpy as np
 from timeit import default_timer as timer
-
 # SGD for hinge loss with L1 regularization
 def sgdhingereg(Z, y,lam,Tmax,eta,batchsize):
     start = timer()
