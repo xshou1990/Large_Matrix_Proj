@@ -1,6 +1,9 @@
 import numpy as np
 from timeit import default_timer as timer
 
+
+
+
 """
 Created on Apr. 21, 2019
 

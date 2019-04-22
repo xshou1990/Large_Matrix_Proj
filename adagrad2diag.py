@@ -1,6 +1,7 @@
 import numpy as np
 from timeit import default_timer as timer
 
+
 """adagrad diag for least square
 
 Parameters:
